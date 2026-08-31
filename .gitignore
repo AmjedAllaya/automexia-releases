@@ -1,0 +1,16 @@
+# Release packages belong in GitHub Release assets, never in Git history.
+*.AppImage
+*.deb
+*.dmg
+*.dll
+*.exe
+*.msi
+*.pdb
+*.rpm
+*.tar.gz
+*.tgz
+*.zip
+SHA256SUMS
+SHA256SUMS.minisig
+*.cdx.json
+*.spdx.json
