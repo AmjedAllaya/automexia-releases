@@ -17,6 +17,7 @@ Publishing is create-once:
 8. the website remains disabled until it receives the exact manifest digest and
    source commit, performs its own live verification, and is reviewed.
 
-The absence of a license file in this binary archive does not grant additional
-rights to Automexia packages. Each release carries the applicable notices and
-terms. Third-party components remain governed by their respective licenses.
+This file is the archive's binary-distribution notice; it is not a source-code
+license or a grant of additional rights. Each release carries the applicable
+notices and terms. Third-party components remain governed by their respective
+licenses.

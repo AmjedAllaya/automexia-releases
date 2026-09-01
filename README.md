@@ -18,3 +18,13 @@ packages; they contain only this repository's public metadata.
 
 Packages are uploaded by a least-privilege release workflow and releases become
 immutable when published. Assets are never replaced under an existing version.
+
+## Repository policy
+
+- [Distribution boundary](DISTRIBUTION.md) explains what may be published here.
+- [Security policy](SECURITY.md) provides the private vulnerability-reporting route.
+- [Support policy](SUPPORT.md) identifies supported downloads and safe diagnostic data.
+
+This archive is intentionally passive: GitHub Actions, projects, issues, and the
+wiki are disabled. Release assets are created only by the private source
+repository's reviewed release workflow.
